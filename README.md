@@ -55,7 +55,6 @@ Upon closer inspection of the dashboard:
 ## 🧰 Tools Used
 
 - **Tableau** – Data visualization
-- **Mapbox** – Geographic mapping for ZIP code visuals
 - **Airbnb Seattle Dataset (2016)** – Listing and pricing data
 
 
