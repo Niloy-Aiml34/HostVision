@@ -1,4 +1,4 @@
-# 🏠 HostVision: Airbnb Investment Insights Dashboard
+# 🏠 Host Insight: Airbnb Investment Insights Dashboard
 
 ## 📌 Problem Statement
 
